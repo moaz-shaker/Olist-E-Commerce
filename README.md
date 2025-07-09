@@ -165,11 +165,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 For questions or collaboration, reach out via [GitHub Issues](https://github.com/moaz-shaker/Olist-E-Commerce/issues) or email: moazshaker121@gmail.com
 
----
-
-**Tip:** Add images and GIFs for your dashboards or process diagrams to further enhance visual appeal!
-
----
-
-Let me know if you'd like the actual README file content updated or need help with specific sections or visuals!
 
